@@ -33,8 +33,8 @@
 
 ### 🔍 [WEB Browser]
 
-- [쿠키(Cookie)와 세션(Session) 그리고 웹 스토리지(Web Storage)](https://github.com/ssi02014/Front-Interview/blob/master/documents/CS/cookie-session.md)
-- [캐시(Cache)](https://github.com/ssi02014/Front-Interview/blob/master/documents/CS/cache.md)
+- [쿠키(Cookie)와 세션(Session) 그리고 웹 스토리지(Web Storage)](https://github.com/Bogol-E/Front-Interview/blob/master/documents/CS/cookie-session.md)
+- [캐시(Cache)](https://github.com/Bogol-E/Front-Interview/blob/master/documents/CS/cache.md)
 
 <br />
 
